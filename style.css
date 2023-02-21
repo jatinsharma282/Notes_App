@@ -178,6 +178,10 @@ footer {
     html {
         font-size: 60%;
     }
+    
+    nav {
+        margin-bottom: 5px;
+    }
 
     .container {
         max-width: 85vw;
